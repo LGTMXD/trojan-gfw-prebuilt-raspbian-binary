@@ -718,3 +718,7 @@ Install the project...
 -- Installing: /usr/lib/systemd/system/trojan.service
 -- Installing: /usr/lib/systemd/system/trojan@.service
 ```
+
+## License
+
+Same as https://github.com/trojan-gfw/trojan
