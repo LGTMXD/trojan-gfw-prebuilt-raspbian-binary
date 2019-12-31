@@ -1,6 +1,13 @@
 # trojan-gfw-prebuilt-raspbian-binary
 Prebuilt trojan-gfw binary for Raspbian
 
+## Why this repo even exists
+
+```
+$ /usr/local/bin/trojan /usr/local/etc/trojan/config.json
+bash: /usr/local/bin/trojan: cannot execute binary file: Exec format error
+```
+
 ## How to install
 
 ```
